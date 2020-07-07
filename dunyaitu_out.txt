@@ -132,7 +132,7 @@ Tahran tahra+Noun+A3sg+P2sg+Nom
 rejiminin rejim+Noun+A3sg+P3sg+Gen
 elinde el+Noun+A3sg+P3sg+Loc
 olduğu, olduğu,+Adj+Noun+A3sg+Pnon+Nom
-aksi+Adj+
+aksi aksi+Adj+
 halde hal+Noun+A3sg+Pnon+Loc
 yeni yeni+Adj+
 yaptırımlara yaptırım+Noun+A3pl+Pnon+Dat
